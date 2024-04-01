@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTS.App", "TelegramTicketSystem\TTS.App.csproj", "{08F70E75-C401-49EF-B762-59AF8C16D4B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTS.DBService", "TTS.DBService\TTS.DBService.csproj", "{AC823137-B543-4C7B-80EE-FD284AF78F28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F70E75-C401-49EF-B762-59AF8C16D4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F70E75-C401-49EF-B762-59AF8C16D4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F70E75-C401-49EF-B762-59AF8C16D4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F70E75-C401-49EF-B762-59AF8C16D4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC823137-B543-4C7B-80EE-FD284AF78F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC823137-B543-4C7B-80EE-FD284AF78F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC823137-B543-4C7B-80EE-FD284AF78F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC823137-B543-4C7B-80EE-FD284AF78F28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A379AF75-4900-4326-BC4D-4F7D04A04A85}
+	EndGlobalSection
+EndGlobal
